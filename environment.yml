@@ -6,6 +6,5 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
-  - sklearn
+  - scikit-learn
   - IPython
-  - mglearn
