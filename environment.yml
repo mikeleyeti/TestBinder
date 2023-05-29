@@ -5,5 +5,7 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - xlrd
+  - scipy
   - sklearn
+  - IPython
+  - mglearn
